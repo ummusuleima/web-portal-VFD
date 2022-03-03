@@ -678,10 +678,10 @@ body {
 .widget.widget_categories ul li a:hover,
 .widget.widget_tag_cloud .tagcloud a:hover,
 a {
-  color: #16149f;
+  color: #a79f9a;
 }
 ::-moz-selection {
-  background-color: #16149f;
+  background-color: #a79f9a;
 }
 .c1-bg,
 .header-main ul.nav ul li a:after,
@@ -695,10 +695,10 @@ a {
 .team-socials a:not(:last-child),
 .widget .widget-title h3:after,
 ::selection {
-  background-color: #16149f;
+  background-color:#208144;
 }
 .c1-bo {
-  border-color: #16149f !important;
+  border-color:  #208144!important;
 }
 .accordion > div.active h3,
 .banner-content .sub-title,
@@ -724,7 +724,7 @@ a {
 .widget.widget_service .service-list li a:hover i,
 .widget.widget_service .service-list li a:hover svg *,
 a:hover {
-  color: #00e3f7;
+  color: #208144;
 }
 .back-to-top,
 .btn,
@@ -744,10 +744,10 @@ a:hover {
 .team-socials a,
 .theme-input-group button,
 .widget.widget_social_links .social-links a:hover {
-  background-color: #00e3f7;
+  background-color: #208144;
 }
 .c2-bo {
-  border-color: #00e3f7 !important;
+  border-color:#208144!important;
 }
 #countdown li.seperator,
 .banner-content,
@@ -1801,7 +1801,7 @@ blockquote cite:after {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  background-color: #336;
+  background-color: white;
   z-index: 99999;
 }
 .box {
@@ -1874,8 +1874,8 @@ blockquote cite:after {
 }
 .btn.btn-shadow,
 .btn.btn-shadow.btn-black:hover {
-  -webkit-box-shadow: 10px 10px 45px rgba(0, 227, 247, 0.3);
-  box-shadow: 10px 10px 45px rgba(0, 227, 247, 0.3);
+  -webkit-box-shadow: 10px 10px 45px rgba(32, 233, 252, 0.3);
+  box-shadow: 10px 10px 45px rgba(32, 233, 252, 0.3);
 }
 .btn.btn-shadow.btn-black,
 .btn.btn-shadow:hover {
@@ -2722,9 +2722,9 @@ blockquote cite:after {
   transform: translateY(-7px) rotate(-45deg);
 }
 .banner {
-  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, rgb(41, 85, 41) 100%)
+  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, darkblue 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, #5994f3 0, rgb(41, 85, 41) 100%)
+  background: radial-gradient(closest-side at 50% 50%, #5994f3 0, darkblue 100%)
     0 0 no-repeat padding-box;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3186,9 +3186,9 @@ blockquote cite:after {
   margin-right: 8px;
 }
 .footer {
-  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, rgb(41, 85, 41) 100%)
+  background: -o-radial-gradient(50% 50%, closest-side, #5994f3 0, darkblue 100%)
     0 0 no-repeat padding-box;
-  background: radial-gradient(closest-side at 50% 50%, #5994f3 0, rgb(41, 85, 41) 100%)
+  background: radial-gradient(closest-side at 50% 50%, #5994f3 0,darkblue 100%)
     0 0 no-repeat padding-box;
   position: relative;
   z-index: 1;
